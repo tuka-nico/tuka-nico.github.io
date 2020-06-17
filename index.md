@@ -8,3 +8,12 @@
 - tuka-nico
 - N予備校
 - 組み込み開発、車載ソフト開発
+
+# Skills
+- uitron,debian-linux,non OS
+- C言語,JavaScript,Python
+- MICROSAR,Node.js,Express
+- 基本処理情報技術者
+
+# Works
+- [GitHub]https://tuka-nico.github.io/
